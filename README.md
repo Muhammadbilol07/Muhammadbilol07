@@ -20,7 +20,7 @@
   <a href="https://instagram.com/muhammadb1lol_007" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadb1lol_007" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/Muhammadbilol_007" target="blank">
+  <a href="https://www.youtube.com/@Muhammadbilol_007" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Muhammadbilol_007" height="30" width="40" />
   </a>
 </p>
